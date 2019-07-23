@@ -1,6 +1,6 @@
 
 ## 使用 hexo 搭建的个人博客 
-域名 http://zuoguoqing.com 已解析至该项目。
+~~域名 http://zuoguoqing.com 已解析至该项目。~~（由于其他仓库的也依赖该项目绑定的域名，暂时取消使用自定义域名）
 
 ### 主题
 next 
